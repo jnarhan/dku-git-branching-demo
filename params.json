@@ -207,7 +207,8 @@
       }
     }
   },
-  "name": "Git Projects demo (prune-flow)",
+  "name": "Git Projects demo",
+  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -264,11 +265,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 125,
+    "versionNumber": 126,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1613488486806
+    "lastModifiedOn": 1613489678497
   },
   "creationTag": {
     "versionNumber": 0,
@@ -278,10 +279,9 @@
     "lastModifiedOn": 1498738782025
   },
   "description": "",
-  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n\nThe project *GIT_PROJECTS_DEMO_PRUNE_FLOW* was copied from *DKU_HAIKU_STARTER_1* by Jay on Feb 16th 2021",
+  "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n",
   "tags": [
-    "tutorial",
-    "duplicated"
+    "tutorial"
   ],
   "customFields": {},
   "checklists": {
