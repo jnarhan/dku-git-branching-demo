@@ -208,7 +208,6 @@
     }
   },
   "name": "Git Projects demo",
-  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -265,11 +264,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 123,
+    "versionNumber": 124,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1613485971135
+    "lastModifiedOn": 1613488484186
   },
   "creationTag": {
     "versionNumber": 0,
@@ -281,7 +280,8 @@
   "description": "",
   "shortDesc": "This project works with the data used in the [Basics 101-103 courses](https://academy.dataiku.com/page/core-concepts), and is a starting point for a number of learning materials.\n",
   "tags": [
-    "tutorial"
+    "tutorial",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
