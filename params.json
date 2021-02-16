@@ -206,7 +206,7 @@
       }
     }
   },
-  "name": "Haiku Starter for Jay",
+  "name": "Git Projects demo",
   "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
@@ -264,11 +264,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 121,
+    "versionNumber": 122,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1613485781221
+    "lastModifiedOn": 1613485800246
   },
   "creationTag": {
     "versionNumber": 0,
