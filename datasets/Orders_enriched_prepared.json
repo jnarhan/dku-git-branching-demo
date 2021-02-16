@@ -59,11 +59,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 6,
+    "versionNumber": 7,
     "lastModifiedBy": {
-      "login": "alex"
+      "login": "admin"
     },
-    "lastModifiedOn": 1501611626884
+    "lastModifiedOn": 1613490562670
   },
   "creationTag": {
     "versionNumber": 0,
@@ -170,7 +170,7 @@
         "type": "string"
       },
       {
-        "name": "ip_address_country",
+        "name": "ip_address_geopoint",
         "type": "string"
       },
       {
@@ -178,7 +178,7 @@
         "type": "string"
       },
       {
-        "name": "ip_address_geopoint",
+        "name": "ip_address_country",
         "type": "string"
       },
       {
